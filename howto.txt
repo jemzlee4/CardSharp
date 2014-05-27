@@ -1,0 +1,17 @@
+Install Git instructions:
+- Make a github account if you haven't already.
+- James Lee will add you to the repository.
+- Do what this page says: http://www.celinio.net/techblog/?p=818
+- Open Cygwin
+- copy/paste the following commands (replacing the appropriate username/email):
+git clone https://github.com/jemzlee4/CardSharp.git
+git config --global user.name "jemzlee4" 
+git config --global user.email leej37@rpi.edu
+
+
+- When you make changes to files in this folder and are ready to push to git:
+- git add *
+- git commit -m "My message telling about the changes"
+- git push
+Fin
+
